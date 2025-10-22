@@ -1,0 +1,6 @@
+Happy to share my Phishing Awareness project created as part of the CodeAlpha Cyber Security Internship! 
+It covers real phishing examples, common red flags, and a short quiz to test awareness. 
+Thanks @CodeAlpha for the opportunity.
+
+GitHub: https://github.com/<sulaidoc-9600>/CodeAlpha_PhishingAwareness
+#CodeAlpha #CyberSecurity #PhishingAwareness
