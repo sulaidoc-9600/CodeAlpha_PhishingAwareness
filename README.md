@@ -25,5 +25,5 @@ To educate users on how to identify and avoid phishing attacks through simple ex
 4. Share summary.pdf for awareness training.
 
 ## Contact
-<sulaiman> — <sulaidoc@gmail.coml> — <7010479617>
+<sulaiman> — <sulaiexamplegmail.coml> — <mobile>
 
