@@ -7,7 +7,7 @@ This project is a simple awareness module about phishing — created as part of 
 It includes:
 - A short presentation (6 slides)
 - A 5-question awareness quiz
-- A one-page summary (PDF)
+- A one-page summary (txt)
 
 ## Purpose
 To educate users on how to identify and avoid phishing attacks through simple examples and best practices.
