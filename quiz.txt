@@ -1,0 +1,28 @@
+PHISHING AWARENESS QUIZ (Answers in brackets)
+
+1. Which is the most suspicious sign in an email?
+   A) Unknown sender asking for password ✅
+   B) Long email body
+   C) Correct company logo
+   D) Proper grammar
+
+2. Before clicking a link, you should:
+   A) Hover to check real URL ✅
+   B) Reply with your password
+   C) Open attachment
+   D) Forward to all
+
+3. MFA stands for:
+   A) Multi-Factor Authentication ✅
+   B) Mail Forwarding Action
+   C) Manual File Access
+   D) Mobile First Auth
+
+4. True or False — A legitimate company will never ask your password over email.
+   ✅ True
+
+5. If you suspect phishing, you should:
+   A) Report to IT/security ✅
+   B) Ignore
+   C) Click link to check
+   D) Reply giving details
