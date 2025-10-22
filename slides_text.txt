@@ -1,0 +1,45 @@
+SLIDE 1 — TITLE
+Phishing Awareness — Quick Guide
+Prepared by: <sulaiman>
+CodeAlpha Internship Project
+Email: <sulaiexample@gmail.com> | Date: <22-10-2025>
+
+---
+
+SLIDE 2 — WHAT IS PHISHING?
+Phishing is a fake message or email used by attackers to steal passwords, money, or sensitive data.
+Example: An email pretending to be your bank asking you to “verify your account.”
+
+---
+
+SLIDE 3 — COMMON SIGNS OF PHISHING
+• Unknown or slightly incorrect sender email address (e.g., support@yourbank-secure.com)
+• Urgent or threatening language: “Immediate action required!”
+• Strange links or attachments — always hover to check URL
+• Requests for passwords, OTP, or personal details
+
+---
+
+SLIDE 4 — EXAMPLES (YOU CAN ADD 2 SIMPLE IMAGES)
+Example 1: Fake bank email — “Your account is locked. Click here.”
+Example 2: Fake HR email — “Download the attached file to view salary info.”
+
+---
+
+SLIDE 5 — HOW TO PROTECT YOURSELF
+• Hover over links before clicking; check the real website
+• Never share passwords or OTP over email or SMS
+• Enable Multi-Factor Authentication (MFA)
+• Contact the organization directly to confirm
+• Report suspicious messages to IT/security team
+
+---
+
+SLIDE 6 — QUIZ & CONTACT
+Test yourself:
+1️⃣ Which is the most suspicious sign in an email?
+2️⃣ What should you do before clicking a link?
+3️⃣ MFA stands for what?
+4️⃣ True/False: A real company will ask your password over email.
+5️⃣ If you suspect phishing, what should you do?
+Contact: <sulaiexample@gmail.com / mobile>
