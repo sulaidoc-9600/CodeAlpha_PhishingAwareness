@@ -1,0 +1,22 @@
+Phishing Awareness — One Page Summary
+-------------------------------------
+
+🔹 What is Phishing?
+Phishing is a type of cyber-attack where fake messages trick users into sharing personal or financial information.
+
+🔹 Top 5 Warning Signs
+1. Unknown or suspicious sender
+2. Urgent language or threats
+3. Links that look strange
+4. Unexpected attachments
+5. Requests for passwords or OTPs
+
+🔹 How to Stay Safe
+1. Verify sender before clicking links
+2. Don’t share passwords or OTPs
+3. Enable Multi-Factor Authentication
+4. Keep systems updated
+5. Report suspicious messages to security team
+
+Prepared by: <sulaiman>
+CodeAlpha Internship — Cyber Security
